@@ -1,0 +1,10 @@
+{
+    "name": "Extensão Junior",
+    "description": "Minha primeira extensão para o google",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "extension.html"
+    }
+}
